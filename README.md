@@ -1,8 +1,6 @@
 # Unit 08 Project 1 Homework: Professional Materials
 
-Now that you've had some practice with APIs and have a project to share, you'll be updating your portfolio page and other materials to build toward being employer competitive.
-
-If you are opting out of career services, this is _still a required assignment_. Part of being a web developer means being a part of a community. Having a place to share your projects is _necessary_ if you're applying for jobs, but is still _critical_ on your journey as a developer.
+Updating your portfolio page and other materials to build toward being employer competitive.
 
 ## Requirements
 
@@ -23,17 +21,7 @@ If you are opting out of career services, this is _still a required assignment_.
 | Resume           | 30%    |
 | LinkedIn Profile | 10%    |
 
-## Instructions
-
-1. [Updated Portfolio](#updated-portfolio)
-2. [GitHub Profile](#updated-github-profile)
-3. [Updated Resume](#updated-resume)
-4. [Updated LinkedIn](#updated-linkedin)
-
 ## Updated Portfolio
-
-💁 Need help updating your Portfolio? Check out the [Career Services milestone resources for online presence](https://sites.google.com/2u.com/careerservices-webdev/coding-milestones/milestone-polish-online-presence).
-
 Your updated portfolio should contain the following:
 
 1. Your full name
@@ -54,10 +42,7 @@ Your updated portfolio should contain the following:
 
 5. Ensure that your portfolio is free of grammar and spelling mistakes
 
-#### Design
-
-Unfortunately, this is where it gets a little bit subjective. Your site should look
-"polished." Here are a few guidelines on what that means:
+### Design:  Your site should look"polished." Here are a few guidelines on what that means:
 
 * Mobile-first design
 * Choose a color palette for your site so it doesn't just look like
@@ -65,8 +50,7 @@ Unfortunately, this is where it gets a little bit subjective. Your site should l
 * Make sure the font size is large enough to read, and that the colors don't cause eye strain.
 
 ## Updated GitHub Profile
-
-Employers (and potential collaborators) _will_ look at your GitHub profile, so put your best face forward. If you haven't yet, now is the time to update the following in your GitHub profile:
+Update the following in your GitHub profile:
 
 1. Professional profile picture
 
@@ -81,14 +65,6 @@ Employers (and potential collaborators) _will_ look at your GitHub profile, so p
 5. Link to your portfolio
 
 6. Pin 3-6 repositories that you want to highlight
-
-   * Navigate to [GitHub](https://github.com/) and go to your profile.
-
-   * Click "Customize your pins"
-
-   * Click the checkboxes for your project and 2-3 homework assignments that you would like to share
-
-   * Make sure each of these projects is deployed and add a link to the deployed project in their README files
 
 7. Follow your classmates. They are the beginning of your professional network and being a developer is as much about being a part of the community as it is writing code.
 
@@ -105,11 +81,6 @@ Employers (and potential collaborators) _will_ look at your GitHub profile, so p
 9. Commit history. Every pinned repository should have at least 20 commits
 
 ### 3. Updated Resume
-
-💁 Need help building a resume? Check out the [Career Services milestone resources](https://sites.google.com/2u.com/careerservices-webdev/coding-milestones/milestone-develop-your-resume).
-
-Submit a clear, concise and compelling resume, tailored to the type of job you’re looking for.
-
 Your resume should include:
 
 * a heading with your name, phone number, professional email address, links to LinkedIn, portfolio and GitHub
@@ -119,23 +90,12 @@ Your resume should include:
 * 3 of your strongest projects/homework assignments with brief description, languages used, and URL
 
 ### 4. Updated LinkedIn Profile
-
-💁 Need help updating your LinkedIn? Check out the [Career Services milestone resources for online presence](hhttps://sites.google.com/2u.com/careerservices-webdev/coding-milestones/milestone-polish-online-presence).
-
 Update your LinkedIn Profile with a strong bio statement, a professional photo, and links to your Github and portfolio.
 
-### ⭐ 5. For Job-Seeking Students (BONUS)
+###This following links to the application: 
+https://aliciagorton.github.io/homeworkeight/
 
-If you are a job-seeking student, then getting yourself marked as employer-ready is an important step to take because you'll get:
+https://github.com/aliciagorton/homeworkeight.git
 
-* added to our employer referral list where we'll help match you with employers for int`erviews
-
-* exclusive access to workshops for employer-ready students
-
-* a statistically higher success rate in your job search
-
-So if you are going to be looking for a job at the end of bootcamp, go ahead and submit these updated items to your Career Materials Advisor (formerly, Profile Coach) via BootcampSpot.
-
----
-
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+### The following image demonstrates the application functionality:
+<img width="1334" alt="this" src="https://user-images.githubusercontent.com/66084311/91232584-37b8a080-e6e4-11ea-94f2-dd9119ae4320.png">
